@@ -1,3 +1,5 @@
+#helloooo
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/norma-g/inolab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Welcome to The Innovation Lab!
-## ha
-### Ha3
+# heading 1
+## heading 2
+### heading 3
 
 - Bulleted
 - List
